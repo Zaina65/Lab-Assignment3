@@ -1,0 +1,8 @@
+admin,12345
+zaina,pass1
+rameen,pass2
+alia,pass3
+ali,pass4
+ahmad,pass5
+sana,pass6
+farhan,pass7
